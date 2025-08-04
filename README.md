@@ -25,3 +25,8 @@ GitHub
 
 ## Use Case:
 Ideal for HR analysts, data scientists, and decision-makers seeking to evaluate workforce trends and salary structures in large organizations.
+
+## DASHBOARD
+
+<img width="1920" height="1080" alt="Screenshot 2025-08-04 172124" src="https://github.com/user-attachments/assets/dc4c4c50-68aa-4eb6-a3ab-4eab0db953ef" />
+
