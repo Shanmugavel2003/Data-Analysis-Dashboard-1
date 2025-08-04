@@ -1,6 +1,10 @@
 # employee-insights-dashboard
 An interactive data analysis dashboard built using Tableau to explore employee trends from 1990 to 2002. The dashboard presents visual insights on gender distribution, average annual salaries, departmental salary differences, and the number of active managers. It enables users to filter by department and analyze salary equity across gender and dept
 
+## Dash board link
+
+<a href="https://github.com/Shanmugavel2003/Data-Analysis-Dashboard-1/blob/main/dashboard.png"> DASHBOARD <a>
+
 
 ## Description:
 An interactive data analysis dashboard built using Tableau to explore employee trends from 1990 to 2002. The dashboard presents visual insights on gender distribution, average annual salaries, departmental salary differences, and the number of active managers. It enables users to filter by department and analyze salary equity across gender and time.
