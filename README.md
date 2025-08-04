@@ -11,17 +11,17 @@ An interactive data analysis dashboard built using Tableau to explore employee t
 
 ## Features:
 
--Breakdown of male vs. female employees over time
--Trends in average employee salaries by gender
--Manager distribution across departments
--Department-wise average salary comparisons
--Year-wise progression from 1990 to 2002
--Interactive filters for department selection
+- Breakdown of male vs. female employees over time
+- Trends in average employee salaries by gender
+- Manager distribution across departments
+- Department-wise average salary comparisons
+- Year-wise progression from 1990 to 2002
+- Interactive filters for department selection
 
 ## Tools Used:
-SQL for data retrieval /
-Tableau for data visualization /
-GitHub
+- SQL for data retrieval 
+- Tableau for data visualization 
+- GitHub
 
 ## Use Case:
 Ideal for HR analysts, data scientists, and decision-makers seeking to evaluate workforce trends and salary structures in large organizations.
