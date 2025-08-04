@@ -19,7 +19,7 @@ An interactive data analysis dashboard built using Tableau to explore employee t
 - Interactive filters for department selection
 
 ## Tools Used:
-- SQL for data retrieval 
+- SQL for data retrieval (SELECT, JOIN, WHERE, GROUP BY, HAVING, ORDER BY)
 - Tableau for data visualization 
 - GitHub
 
