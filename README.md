@@ -28,5 +28,6 @@ Ideal for HR analysts, data scientists, and decision-makers seeking to evaluate 
 
 ## DASHBOARD
 
-<img width="1920" height="1080" alt="Screenshot 2025-08-04 172124" src="https://github.com/user-attachments/assets/dc4c4c50-68aa-4eb6-a3ab-4eab0db953ef" />
+<img width="1646" height="794" alt="dashboard" src="https://github.com/user-attachments/assets/46e820b7-d845-4467-bf19-976052665f1f" />
+
 
